@@ -1,0 +1,43 @@
+p {
+  font-family: 'Inconsolata';
+  color: lightsalmon;
+}
+h1,h2 {
+  font-family: 'Inconsolata';
+  text-align: center;
+  color: lightyellow;
+
+}
+body {
+  background: url("https://c1.staticflickr.com/9/8164/7407497192_02c72f4c4e_b.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+.bottomright {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 18px;
+}
+.bottomleft {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+.centerleft {
+  position: absolute;
+  bottom: 8px;
+  left: 400px;
+  font-size: 18px;
+}
+.centerright {
+  position: absolute;
+  bottom: 8px;
+  right: 400px;
+  font-size: 18px;
+}
